@@ -2,7 +2,5 @@
 刷题记录
 
 
-汽水瓶原题链接
-```
-https://www.dotcpp.com/oj/problem1072.html
-```
+1.汽水瓶原题链接   <https://www.dotcpp.com/oj/problem1072.html>
+
